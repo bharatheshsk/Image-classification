@@ -11,6 +11,7 @@ Download the model: ssd_mobilenet_v2_coco_2018_03_29
 Drive Link: https://drive.google.com/drive/folders/1Rxv5ovbPqetxjzi2QO4JXUIJY9OIAZ5-?usp=drive_link
 
 After download place it inside the models folder
+( A PNG file is provided for Better understanding )
 
 models->ssd_mobilenet_v2_coco_2018_03_29->...........
 
